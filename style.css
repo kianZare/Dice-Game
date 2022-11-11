@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to right, #c6addb, rgb(90, 80, 255));
+    font-size: 22px;
+
+}
+
+h1 {
+    margin: 20px;
+    color: rgb(70, 50, 240);
+}
+
+img {
+    width: 120px;
+    padding: 50px;
+}
+
+.page {
+    text-align: center;
+}
+
+.btnPosition {
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn {
+    width: 150px;
+    height: 40;
+    border-radius: 20px;
+    margin: 40px;
+    font-size: 18px;
+    transition-duration: 0.8s;
+
+}
+
+.btn:hover {
+  background-color: #87d18b; 
+  color: white;
+}
+
+.bcgMusic{
+    text-align: center;
+}
